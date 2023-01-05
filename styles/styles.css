@@ -158,6 +158,34 @@ header{
     margin-top: 70px;
     text-align: center;
 }
+.margin{
+    margin-left: 450px;
+    margin-right: 450px;
+}
+.bgc{
+    display: flex;
+    background-color: lightgoldenrodyellow;
+    align-items: center;
+    padding: 100px 200px 100px 350px;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+.bgc-content{
+    justify-content: center;
+}
+.inp{
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    padding: 11px;
+    width: ;
+}
+.header-end{
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    padding: 10px;
+    background-color: tomato;
+}
 /* footer */
 .footer{
     background-color: black;
