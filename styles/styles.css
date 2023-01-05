@@ -74,3 +74,28 @@ header{
     margin-bottom: 30px;
     padding: 10px;
 }
+/* 2nd section */
+.odt{
+    margin-top: 70px;
+    text-align: center;
+}
+/* last section */
+.gmu{
+    margin-top: 70px;
+    text-align: center;
+}
+/* footer */
+.footer{
+    background-color: black;
+    text-align: center;
+}
+.footer-title{
+    color: rgba(255, 0, 55, 0.911);
+    padding-top: 60px;
+    padding-bottom: 30px;
+    font-family: fantasy;
+}
+.footer-description{
+    color: white;
+    padding-bottom: 40px;
+}
