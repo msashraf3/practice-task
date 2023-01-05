@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-image: url('../images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background position: 100px;
+    text-align: center;
+    padding: 130px;
+    
+}
+.header-title{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.header-description{
+    color: white;
+    margin-bottom: 20px;
+    padding-left: 550px;
+    padding-right: 550px;
+}
+.header-button{
+    border: 0;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    background:tomato ;
+}
