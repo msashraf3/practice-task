@@ -79,6 +79,44 @@ header{
     margin-top: 70px;
     text-align: center;
 }
+.odt-offer{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.odt-offer-inside1{
+    background-color: lightblue;
+    text-align: left;
+    border: 0;
+    border-radius: 5px;
+    padding: 5% 3% 3% 2%;
+}
+.odt-offer-inside2{
+    background-color: lightpink;
+    text-align: left;
+    border: 0;
+    border-radius: 5px;
+    padding: 5% 3% 3% 2%;
+}
+.odt-offer-inside3{
+    background-color: lightgoldenrodyellow;
+    text-align: left;
+    border: 0;
+    border-radius: 5px;
+    padding: 5% 3% 3% 2%;
+}
+.odt-offer-image{
+    margin-bottom: 20px;
+}
+.odt-offer-title{
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+.odt-offer-des{
+    color: grey;
+}
 /* last section */
 .gmu{
     margin-top: 70px;
