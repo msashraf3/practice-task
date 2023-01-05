@@ -2,8 +2,11 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+/* Header styles */
 header{
-    background-image: url('../images/donation5.jpg');
+    background-image: url('../images/donation2.jpg');
+    background-size: cover;
+    background-blend-mode:hard-light;
     background-repeat: no-repeat;
     background-position: center;
     background position: 100px;
@@ -24,8 +27,50 @@ header{
 }
 .header-button{
     border: 0;
-    padding: 20px;
+    padding: 15px;
     border-radius: 5px;
     color: white;
     background:tomato ;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* Donation today styles */
+.dt{
+    margin-top: 70px;
+    text-align: center;
+}
+.dt-title{
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 900;
+}
+.dt-description{
+    color: grey;
+    padding-left: 690px;
+    padding-right: 690px;
+    margin-bottom: 40px;
+}
+.dt-container{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.dt-amount-des{
+    background-color: whitesmoke;
+    padding: 30px 20px;
+    color: grey;
+    font-size: 30px;
+    border: 0;
+    border-radius: 5px;
+}
+.other-amount input[type="text"]{
+    height: 20px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    text-align: center;
+    width: 37%;
+    margin-bottom: 30px;
+    padding: 10px;
 }
